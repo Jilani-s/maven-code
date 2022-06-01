@@ -1,0 +1,6 @@
+projectKey=com.example:DemoSonarExample
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/com.example:DemoSonarExample
+ceTaskId=AYEY8KW85FfaKfaFp0GQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYEY8KW85FfaKfaFp0GQ
